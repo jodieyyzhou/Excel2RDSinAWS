@@ -11,6 +11,6 @@ The purpose of this function is mainly to streamline the process for Business De
 # AWS Lambda 
 
 - (1)Extract information and transform the dataFrame using pandas into csv file (file size 2.6KB) 
-*reduce file size by 100% 
+* reduce file size by 100% 
 - (2)Connecting to AWS RDS and Update the Opportunities using update query
-*full function completed within 0.9s
+* full function completed within 0.9s
